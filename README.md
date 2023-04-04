@@ -60,7 +60,7 @@ I love the entire process of developing softwares and solving problems. I love t
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anonymgit&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anonymgit)](https://git.io/streak-stats)
 
 
 ## 📈 GitHub Stats 
