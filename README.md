@@ -58,7 +58,7 @@ I love the entire process of developing softwares and solving problems. I love t
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymgit)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anonymgit&theme=transparent)](https://git.io/streak-stats)
 
