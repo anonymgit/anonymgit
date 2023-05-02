@@ -62,9 +62,9 @@ I love the entire process of developing softwares and solving problems. I love t
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anonymgit)](https://git.io/streak-stats)
 
-
+<!-- 
 ## 📈 GitHub Stats 
 
 [![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=anonymgit)](https://github.com/anonymgit)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymgit&layout=compact)](https://github.com/anonymgit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymgit&layout=compact)](https://github.com/anonymgit) -->
