@@ -14,9 +14,7 @@ You can click the Preview link to take a look at your changes.
 Hi there, I'm <a href="https://www.linkedin.com/in/aryanraj0836/" target="_blank" rel="noreferrer">Aryan</a> 👋
 </h3>
 
-<h2 align="center">
-I'm a Engineer
-</h2> 
+ 
 
 I love the entire process of developing softwares and solving problems. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
