@@ -20,7 +20,7 @@ I love the entire process of developing softwares and solving problems. I love t
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/aryanraj0836/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Aryan| LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/aryanraj0836/">LinkedIn</a>
 
 </br>
 - 💬 way to reach me 👆
